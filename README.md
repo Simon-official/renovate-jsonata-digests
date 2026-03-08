@@ -1,4 +1,4 @@
-# TODO
+# 41735
 
 ## Current behavior
 
@@ -10,4 +10,4 @@ The update shouldn't fail and the digest should be updated correctly.
 
 ## Link to the Renovate issue or Discussion
 
-TODO
+https://github.com/renovatebot/renovate/discussions/41735
