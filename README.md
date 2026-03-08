@@ -1,17 +1,13 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# TODO
 
 ## Current behavior
 
-Explain the current behavior here.
+Renovate correctly detects that the digest needs to be updated and attempts to create a PR. The update however fails with the message: `Error updating branch: update failure`.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+The update shouldn't fail and the digest should be updated correctly.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+TODO
