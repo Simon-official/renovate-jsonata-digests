@@ -1,4 +1,4 @@
 [authelia]
 image = "authelia/authelia"
-version = "4.39.15"
-digest = "sha256:0"
+version = "4.39.22"
+digest = "sha256:936134132eaf01bfa2faf85055afbc1e0cc1cc5ca4547e9c06408fd0dd784646"
